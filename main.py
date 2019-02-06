@@ -7,7 +7,7 @@ For: BBC
 Assumptions: 
            1. Cells outside of grid will be reflected to opossite side of grid (Wrap Around World)
 
-           2. grid size must be sufficiently big in order to see anything meaningful
+           2. Grid size must be sufficiently big in order to see anything meaningful
 
 
 Possible improvements/Exploration: 
