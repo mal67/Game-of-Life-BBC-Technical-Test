@@ -1,3 +1,3 @@
 # Game-of-Life-BBC-Technical-Test
 
-- An implementation of Conway's Game of Life using Python 3 and Pygame
+- An implementation of Conway's Game of Life using Python 3.7.2 and Pygame 1.9.4
