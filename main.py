@@ -33,7 +33,7 @@ CELL_IS_ALIVE = pygame.color.Color("Green")
 # Height and width of each cell on grid
 HEIGHT = 20
 WIDTH = 20
-# the distance between cells
+# The distance between cells
 MARGIN = 1
 
 # Creates grid 20x20 in this instance 
