@@ -1,5 +1,5 @@
 """
-Conway's Game of Life
+Title: Conway's Game of Life
 
 Author: Mohamed A. Laleg
 For: BBC
@@ -10,7 +10,7 @@ Assumptions:
            2. grid size must be sufficiently big in order to see anything meaningful
 
 
- Possible improvements/Exploration: 
+Possible improvements/Exploration: 
            1. Scale the window with size of cells in order to get an optimum size window, 
               This will allow the full grid to be seen on every run.
 
