@@ -78,7 +78,7 @@ while not complete:
 				WIDTH,
 				HEIGHT])
     
-        # Limits the frame per second of the screen
+        # Limits the frames per second of the screen
 	screen_update.tick(30)
     
         # Update screen with what we have drawn
