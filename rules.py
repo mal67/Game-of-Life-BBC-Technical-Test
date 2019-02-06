@@ -2,17 +2,17 @@ import random as rand
 import copy
 
 def make_2D_array(rows, cols):
-    """
-    Creates an empty two dimensional array
+	"""
+	Creates an empty two dimensional array
 
-    Args: 
-    rows: the number of rows in the array
-    cols: the number of columns in the array
+        Args: 
+            rows: the number of rows in the array
+            cols: the number of columns in the array
 
-    Returns:
-    make_2D_array(2,2): [ [[], []], 
-                          [[], []] ]
-    """
+        Returns:
+            make_2D_array(2,2): [ [[], []], 
+                                  [[], []] ]
+	"""
 	array = []
 	for i in range(rows):
 		array.append([])
