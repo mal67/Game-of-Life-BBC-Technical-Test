@@ -62,10 +62,10 @@ while not complete:
 		if event.type == pygame.QUIT: # If user clicked close
 			complete = True # exit this loop
 	
-	# Sets color of screen background to black
+        # Sets color of screen background to black
 	screen.fill(SCREEN_FILL)
     
-    # Draw the grid 
+        # Draw the grid 
 	for i in range(rows):
 		for j in range(cols):
 			color = SCREEN_FILL
@@ -78,13 +78,13 @@ while not complete:
 				WIDTH,
 				HEIGHT])
     
-    # Limits the frame per second of the screen
+        # Limits the frame per second of the screen
 	screen_update.tick(30)
     
-    # Update screen with what we have drawn
+        # Update screen with what we have drawn
 	pygame.display.flip()
     
-    # Next grid 
+        # Next grid 
 	grid = rl.logic(grid)
 
 
